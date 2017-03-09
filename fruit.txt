@@ -1,6 +1,6 @@
 Apple
 Orange
 Grape
-pear
-mellon
-berry
+Pear
+Watermellon
+Blueberry
